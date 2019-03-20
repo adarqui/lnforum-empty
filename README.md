@@ -1,3 +1,3 @@
 # lnforum-empty
 
-Empty repo.
+empty.
