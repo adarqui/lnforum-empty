@@ -1,7 +1,3 @@
-# ln-sanitize
+# lnforum-empty
 
-Sanitization routines for ln-types & more. Sanitization routines assume validation (via ln-validate).
-
-## tests
-
-stack test
+Empty repo.
